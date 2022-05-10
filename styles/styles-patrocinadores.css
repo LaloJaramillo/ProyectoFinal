@@ -1,0 +1,35 @@
+.patrocinadores{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.patrocinadores img{
+    margin: 60px 0 0 0;
+}
+
+.section-title img {
+    height: 50px;
+    margin: 0 20px 0 20px;
+}
+
+hr {
+    width: 100px;
+    height: 4px;
+    border: 0;
+    margin: 8px 0 40px 0;
+}
+
+.patrocinadores hr{
+    background-color: #FFC227;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: -250px;
+}
